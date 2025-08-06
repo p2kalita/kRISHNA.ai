@@ -1,1 +1,0 @@
-# kRISHNA.ai
