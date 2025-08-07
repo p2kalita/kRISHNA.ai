@@ -368,7 +368,7 @@ model.save_pretrained_merged(model_dir, tokenizer, save_method="merged_16bit")
 
 **HuggingFace Hub Integration**:
 ```python
-model.push_to_hub_merged("p2kalita/gemma-3n-E4B-it-finetuned-KrishnaAI", tokenizer)
+model.push_to_hub_merged("p2kalita/gemma-3n-E4B-it-finetuned", tokenizer)
 ```
 
 ### 8.2 Production Deployment Architecture
