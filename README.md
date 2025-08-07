@@ -1,4 +1,4 @@
-# Technical Proof of Work: Krishna AI - Gemma 3n Fine-tuning Implementation
+# Technical Proof of Work: kRISHNA.ai - Gemma 3n Fine-tuning Implementation
 
 ## Executive Summary
 
